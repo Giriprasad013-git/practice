@@ -1,2 +1,1 @@
-fun friday
-and its today
+Hello
