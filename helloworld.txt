@@ -3,5 +3,8 @@ This is second line
 this is third
 
 the lazy brown rat jumps over the house.
+<<<<<<< HEAD
 these are the changes
+=======
+>>>>>>> c2ffbe1... changes in files
 
